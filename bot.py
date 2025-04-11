@@ -32,4 +32,4 @@ async def hello(ctx):
 @bot.command()
 async def heh(ctx, count_heh = 5):
     await ctx.send("he" * count_heh)
-bot.run("PUT TOKEN HERE!!")
+bot.run("PUT TOKEN HERE!!!")
